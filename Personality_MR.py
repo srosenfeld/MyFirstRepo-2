@@ -26,6 +26,13 @@ else:
 
 print("Do you like to dance?")
 dance = input()
+if dance == "Jazz":
+    print("I love jazz too!")
+    elif dance == "tap")
+    print("I like tap")
+    else:
+        print("Whatever floats your boat")
+        
 
     
           
